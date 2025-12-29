@@ -1,3 +1,3 @@
 # READ ME PAPER
 
-This folder contains all the code and images for reproducing the paper in LaTex.
+This folder contains the code, Bib file and images for reproducing the paper in LaTex.
